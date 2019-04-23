@@ -1,3 +1,4 @@
 # best-repo-ever
 This is a test of GitHub ... thanks so much. 
-Changing line 3 for merge conflict 2nd change
+Line 3 bogus	
+Line 4 is good
